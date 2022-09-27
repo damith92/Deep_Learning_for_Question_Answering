@@ -1,6 +1,6 @@
 # Cloze Form Question Answering on CNN Dataset
 
-*This was a class project for Deep Learning Course at NTU, Singapore.*
+*This was a project at NTU, Singapore.*
 
 Reading comprehension is a form of a question-answering problem that tests the ability of a machine to read and understand documents by providing a model with a document/context from which the model has to find the answer to a given query. The task which we specifically focused on is called **cloze form question answering**. The speciality of cloze form question answering is that the query only has a single word answer, which is present in the document/passage.
 
